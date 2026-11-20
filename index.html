@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<!-- MILE ZERO script integration based on user-edited DAY 01–04 TXT; test-mode controls disabled. -->
+<!-- Lucian UX/UI Prompt #228 · MIT License (c) 2026 Seokwoooo · https://lucianlabs.dev/uxui-prompt/#228 -->
+<html lang="ko"><head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="mile-zero-build" content="MZ_v356_FULL_DAY35_SAVE_GUARD_20261104">
+<title>MILE ZERO</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body><div class="app">
+  <header><div><h1 id="brandTitle">MILE ZERO</h1><small id="branchDay">ZERO GATE BRANCH · DAY 01</small></div>
+    <div class="top-right"><button class="btn bgm-toggle" id="headerBgmButton" type="button" aria-label="음향 설정 열기">⚙ SOUND</button><button class="btn theme-toggle" id="headerLightButton" type="button" aria-label="다크 모드와 라이트 모드 전환">☀ 라이트 모드</button><div class="time-block" title="저녁 근무 18:00–다음 날 02:00"><div id="clock">18:00</div><small id="phaseLabel">영업 준비</small></div></div>
+  </header>
+  <div class="columns">
+    <main class="main">
+      <section class="scene"><div class="identity" id="guestIdentity">관문 구역<br><strong>영업 준비 중</strong></div><div class="mz-window-city-gif" aria-hidden="true"></div><div class="figure" id="figure" style="display:none" aria-label="캐릭터 이미지 영역"></div><div class="counter" id="counter"></div></section>
+      <section class="dialogue"><div class="speaker" id="speaker">MILE ZERO</div><p id="dialogueText">영업 준비를 시작합니다.</p><div class="actions" id="choices"></div></section>
+      <section class="station"><nav class="station-indicator" aria-label="현재 제조대"><button type="button" id="drinkIndicator" class="station-indicator-item" aria-label="음료 제조대">01 DRINKS</button><span class="station-indicator-sep">/</span><button type="button" id="foodIndicator" class="station-indicator-item" aria-label="안주 제조대">02 FOOD</button></nav><div class="station-head"><div style="display:flex;gap:5px;align-items:center"><button class="btn" id="prevStation" aria-label="이전 작업대">‹</button><strong id="stationName">DRINK STATION</strong><button class="btn" id="nextStation" aria-label="다음 작업대">›</button></div><span class="note" id="orderLabel">주문 대기</span></div><div id="stationBody"></div></section>
+    </main>
+    <aside class="sidebar u228-host">
+      <button class="side" data-panel="recipes" id="v57RecipeSide"><b>▤</b>레시피<span id="v57RecipeUnread" class="unread-badge" hidden>NEW</span></button>
+      <button class="side" data-panel="ingredients"><b>◈</b>재료</button>
+      <button class="side" data-panel="guests" id="v48GuestSide"><b>♙</b>손님<span id="v48GuestUnread" class="unread-badge" hidden>NEW</span></button>
+      <button class="side" data-panel="messages" id="messageSide"><b>✉</b>메시지<span id="messageUnread" class="unread-badge" hidden></span></button>
+      <button class="side" data-panel="log"><b>☰</b>대화기록</button>
+      <button class="side" data-panel="save"><b>▣</b>저장</button>
+      <span class="grow"></span>
+      <button class="side mz-sidebar-return" id="returnToTitle" type="button" aria-label="메인 화면으로 돌아가기"><b>⌂</b>메인</button>
+    </aside>
+  </div>
+</div>
+<div class="mz-panorama-strip" id="mzPanoramaStrip" data-enabled="true" data-running="true" aria-hidden="true"><div class="mz-panorama-track"><span class="mz-panorama-tile"></span><span class="mz-panorama-tile"></span></div></div>
+<div id="modalRoot"></div>
+
+<!-- Game data (plain constants), then game logic. Order matters. -->
+<script src="js/data/recipes.js"></script>
+<script src="js/data/messages.js"></script>
+<script src="js/data/characters.js"></script>
+<script src="js/data/story-visits.js"></script>
+<script src="js/data/arcade-ghost-eater.js"></script>
+<script src="js/game/core.js"></script>
+<script src="js/game/ui.js"></script>
+<script src="js/game/visits.js"></script>
+<script src="js/game/bar.js"></script>
+<script src="js/game/scene.js"></script>
+<script src="js/game/recipes.js"></script>
+<script src="js/game/guests.js"></script>
+<script src="js/game/market.js"></script>
+<script src="js/game/phone.js"></script>
+<script src="js/game/weekend.js"></script>
+<script src="js/game/save-format.js"></script>
+<script src="js/game/save.js"></script>
+<script src="js/game/dev.js"></script>
+<script src="js/game/main.js"></script>
+
+<audio id="mileBgm" preload="none" playsinline aria-label="Cassette Tape Dream, Sharou" style="display:none"></audio>
+<script src="js/bgm.js"></script>
+<script defer src="js/icons.js"></script>
+<script src="js/scene-backgrounds.js"></script>
+</body></html>

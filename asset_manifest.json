@@ -1,0 +1,446 @@
+[
+  {
+    "index": 0,
+    "path": "assets/audio/arcade-gameover-wilhelm-v351.mp3",
+    "bytes": 83637,
+    "sha256": "bdd52c1ebfab2c896f804f3b65f3f2d407e018cf8fef1c4a048055da575737dd"
+  },
+  {
+    "index": 1,
+    "path": "assets/audio/arcade-ghost-eat.mp3",
+    "bytes": 18390,
+    "sha256": "d3cb929da8d79a98362d37c48b44dad59d57d432f9109c16f90e5a79e0d1343a"
+  },
+  {
+    "index": 2,
+    "path": "assets/audio/arcade-hurt.mp3",
+    "bytes": 35328,
+    "sha256": "4b6529a886b8ac7e5954fb3da4f3702bad36f74b2fdbcefee053b0fba5c08dd9"
+  },
+  {
+    "index": 3,
+    "path": "assets/audio/arcade-item-pop.mp3",
+    "bytes": 52224,
+    "sha256": "958db4383b77e65b0962e00825190620209d4ac2ad1da91fe3432027e38defcc"
+  },
+  {
+    "index": 4,
+    "path": "assets/audio/arcade-powerup.mp3",
+    "bytes": 6433099,
+    "sha256": "367b72396fa0dc47a41f4382237b5754d18db5f9ffd558c519629efd4deac7f2"
+  },
+  {
+    "index": 5,
+    "path": "assets/audio/bgm/cassette-tape-dream.mp3",
+    "bytes": 2227016,
+    "sha256": "ee5063a6b1c0becfca8d3cd5196193ee2a9df67f7f07beb96ae145d8f9f9ef1f"
+  },
+  {
+    "index": 6,
+    "path": "assets/audio/bgm/infp.mp3",
+    "bytes": 2565377,
+    "sha256": "a7df9b9d885f17502c82b9bf09ee7773abfe104313686e06b74ad0772cc1a378"
+  },
+  {
+    "index": 7,
+    "path": "assets/audio/bgm/kyoto.mp3",
+    "bytes": 3756752,
+    "sha256": "07ea14454608d7a1479d76a7a1df143736c0bd34ba11a431336d9d6ab9c50244"
+  },
+  {
+    "index": 8,
+    "path": "assets/audio/bgm/superstar.mp3",
+    "bytes": 2949744,
+    "sha256": "5ea36fa37c03488941f8e4c02dd3443f9d867b6102d2faa33888163bed3c14d1"
+  },
+  {
+    "index": 9,
+    "path": "assets/audio/bgm/tokyo.mp3",
+    "bytes": 3842987,
+    "sha256": "d9d69bfe8ac8511cc1d55dd67a43cfce5f150bc6b259f8f4efd83d05b53da30a"
+  },
+  {
+    "index": 10,
+    "path": "assets/audio/clear.mp3",
+    "bytes": 10604,
+    "sha256": "ff397b25e9721307e7b965d3e8d625209feaa049c8e3fd277fa4fc24782eed27"
+  },
+  {
+    "index": 11,
+    "path": "assets/audio/click.mp3",
+    "bytes": 12524,
+    "sha256": "41ef94cfc0f28cecf09d1de4e4dec320422aeb0087fbaf3a9b5aed76c1fc8080"
+  },
+  {
+    "index": 12,
+    "path": "assets/audio/complete.mp3",
+    "bytes": 10124,
+    "sha256": "2bd4030d6ff5736b5220b8416b4d3330e47da3a53840563b2d76905583ab4f33"
+  },
+  {
+    "index": 13,
+    "path": "assets/audio/door.mp3",
+    "bytes": 30764,
+    "sha256": "2c9d549d9497614d1dd7fd95067437cadca7e2b6553fb6806a0de257b5c3925c"
+  },
+  {
+    "index": 14,
+    "path": "assets/audio/food.mp3",
+    "bytes": 2924,
+    "sha256": "08021dd217b0c7a278554fd266cd5d34b75c00df5fbc3e0d2acd64d5109280e4"
+  },
+  {
+    "index": 15,
+    "path": "assets/audio/ice.mp3",
+    "bytes": 13004,
+    "sha256": "2e4e391fb95df3a3e8a05a629da9fdb2ba194561e6e81edb333ddb2c8eae3573"
+  },
+  {
+    "index": 16,
+    "path": "assets/audio/mail.mp3",
+    "bytes": 4364,
+    "sha256": "1385952298e1808a1bb5a6c0997887e0e10f1364bf874acadf49d688f0848758"
+  },
+  {
+    "index": 17,
+    "path": "assets/audio/mix.mp3",
+    "bytes": 15884,
+    "sha256": "10850cdded6a83bd5c51eb3604041203e33139c025c951ec2425ba925e5cd967"
+  },
+  {
+    "index": 18,
+    "path": "assets/audio/musicbox-starry-night.mp3",
+    "bytes": 3244953,
+    "sha256": "e42a7c3475154e28b80cde4ef993ba1846c2f0f4cb8b99df3ea0f518d0caa5e6"
+  },
+  {
+    "index": 19,
+    "path": "assets/audio/pour.mp3",
+    "bytes": 20684,
+    "sha256": "99de3fb4aa64f412f07ebdc39ac9ace7fa9a8be09475e7f03d1a7cb4960fa6bd"
+  },
+  {
+    "index": 20,
+    "path": "assets/audio/recipe.mp3",
+    "bytes": 8204,
+    "sha256": "9876a9c627d97fbb4af6ffd944f6900ba394a5c028e5072f94b97ea4202ac0c8"
+  },
+  {
+    "index": 21,
+    "path": "assets/audio/sns.mp3",
+    "bytes": 5376,
+    "sha256": "3b1d4d64e26b4f12185af2e351ca566c3d3a6b0ed9c3e2d595f48f6311248e30"
+  },
+  {
+    "index": 22,
+    "path": "assets/audio/topping.mp3",
+    "bytes": 9164,
+    "sha256": "643d3c0637ab52d0467493a9742dbfabbd8eee8c0ac0ba11decae164289be25c"
+  },
+  {
+    "index": 23,
+    "path": "assets/backgrounds/bar-scene.webp",
+    "bytes": 137412,
+    "sha256": "40829fe9dfd2c146a93cfbde2e3803ac72f34372fa4f5ea5e8c7b8fa93872c1d"
+  },
+  {
+    "index": 24,
+    "path": "assets/backgrounds/market-banner.webp",
+    "bytes": 34252,
+    "sha256": "9c51c5eb6440daa261671133250112c92a75411a769a0b9086128e6d2b533513"
+  },
+  {
+    "index": 25,
+    "path": "assets/backgrounds/panorama.webp",
+    "bytes": 28080,
+    "sha256": "36c40d462d7337da8959431c14450baf19daee43520e1d0fcfacc7de16d68586"
+  },
+  {
+    "index": 26,
+    "path": "assets/backgrounds/weekend-room-alt.webp",
+    "bytes": 100288,
+    "sha256": "f64873c0bc460f15ee875253e0638e928b27702c9d0560a0c38f6f6aba8626cc"
+  },
+  {
+    "index": 27,
+    "path": "assets/backgrounds/weekend-room.webp",
+    "bytes": 126522,
+    "sha256": "f28606bb83b4fbda1203e9c3d48896855d35a21a35316bb9d8535eb67c240187"
+  },
+  {
+    "index": 28,
+    "path": "assets/backgrounds/window-city.webp",
+    "bytes": 154438,
+    "sha256": "0c67ac11cbaa4aede205ee0fbbfb785a46949901be49c4a0284e56e045685076"
+  },
+  {
+    "index": 29,
+    "path": "assets/characters/freight-driver-animal.webp",
+    "bytes": 3128,
+    "sha256": "c26a585d24ac4fe8e414cdc6e99455d46ccdefdd43836f4b60be65ebb0888e28"
+  },
+  {
+    "index": 30,
+    "path": "assets/characters/freight-driver-base.webp",
+    "bytes": 13970,
+    "sha256": "de073522be983dc1ba2f562a5f7bf2626cf83f30ee65f0dfcb9bfe3d14c0a1bc"
+  },
+  {
+    "index": 31,
+    "path": "assets/characters/freight-driver-expression-normal.webp",
+    "bytes": 2486,
+    "sha256": "8f8d06edee6c5c8f5c8bd025ea1505bfccea0f1c6889140f8fe9ccc0d09daa5f"
+  },
+  {
+    "index": 32,
+    "path": "assets/characters/freight-face.webp",
+    "bytes": 17820,
+    "sha256": "69bb92ed5af86d3587a78b0f9dc85e92c5acaacb06e246408a318949dd4e966c"
+  },
+  {
+    "index": 33,
+    "path": "assets/characters/gate-waiting-guest-day30.webp",
+    "bytes": 15386,
+    "sha256": "7a98f065201b29e6616ffb20de4030c1b1095408e8db4c6930f8d01e21512551"
+  },
+  {
+    "index": 34,
+    "path": "assets/characters/generic-casual-a.webp",
+    "bytes": 14378,
+    "sha256": "3c2be7f33fcf7c61ae260922416befc4f5a9760ac0f96dd3bc1b6b0540bde24e"
+  },
+  {
+    "index": 35,
+    "path": "assets/characters/generic-casual-b.webp",
+    "bytes": 29176,
+    "sha256": "4a813f46f80fc4ee8c8930ac5080ec45453d88f8099b1a5afae81e344b9d1087"
+  },
+  {
+    "index": 36,
+    "path": "assets/characters/generic-travel-a.webp",
+    "bytes": 30806,
+    "sha256": "edd64d2c93ea88a0df5415fc1013ab4ba133d835e98fa284babe7d31809a5692"
+  },
+  {
+    "index": 37,
+    "path": "assets/characters/generic-travel-b.webp",
+    "bytes": 54302,
+    "sha256": "3975cd76f7a4a2aa4ac73e1c13dd692794fc91b0056a12d577d44f4d0ffa4100"
+  },
+  {
+    "index": 38,
+    "path": "assets/characters/generic-work-a.webp",
+    "bytes": 11148,
+    "sha256": "f6c67e1c753bb8e1a64c3183f505eb974d288ac1fac0fb6bc669ae68c2dcb8e8"
+  },
+  {
+    "index": 39,
+    "path": "assets/characters/generic-work-b.webp",
+    "bytes": 10656,
+    "sha256": "af10ff1afb8037df9472a2fb492acbfadb6a95e2344e41344c50ae1bd6f50a29"
+  },
+  {
+    "index": 40,
+    "path": "assets/characters/kairen-base.webp",
+    "bytes": 18772,
+    "sha256": "d0aeefb996ae89334d64377166035a00f68f2ab66dba0acb5ce535c4964dfc63"
+  },
+  {
+    "index": 41,
+    "path": "assets/characters/kairen-expression-normal.webp",
+    "bytes": 2386,
+    "sha256": "1c3978f395479f2f3af7b8e22ca65db9e0585f06944954fcfb44dc9b3b85138d"
+  },
+  {
+    "index": 42,
+    "path": "assets/characters/kairen-face.webp",
+    "bytes": 18792,
+    "sha256": "d692129df6d6ef23cd95bd574572e9b794992f5dca89cda41dcd209b89ed1886"
+  },
+  {
+    "index": 43,
+    "path": "assets/characters/maren-base.webp",
+    "bytes": 19606,
+    "sha256": "ebfc4ab18b39088611fc60e14f6fd59f8d8ee51d1761003af1265a55b4338b90"
+  },
+  {
+    "index": 44,
+    "path": "assets/characters/maren-expression-normal.webp",
+    "bytes": 2374,
+    "sha256": "de6d8cb1a86d5433f2935be3f2d1c86ff650094a6326582e51815d29d808871b"
+  },
+  {
+    "index": 45,
+    "path": "assets/characters/maren-expression-question.webp",
+    "bytes": 2748,
+    "sha256": "7f7f6a2191551601fe0ca8aebdf73f14078e96da8f5ed51a89a47b4d6103243e"
+  },
+  {
+    "index": 46,
+    "path": "assets/characters/maren-expression-smile.webp",
+    "bytes": 916,
+    "sha256": "17cb0bcdcc659c893033f35d0e2ca10830a593f1619f0acedbbedb7d81fc75de"
+  },
+  {
+    "index": 47,
+    "path": "assets/characters/maren-face.webp",
+    "bytes": 56036,
+    "sha256": "65b01cf65a2b8f2e5cb9205d2a5be10755f9dac62348c4594d95c863b6bbca43"
+  },
+  {
+    "index": 48,
+    "path": "assets/characters/mika-base.webp",
+    "bytes": 38892,
+    "sha256": "688cfd2409b0a5669d58f3ee17212d9271817bb5250a4770835e1d425f50b7ab"
+  },
+  {
+    "index": 49,
+    "path": "assets/characters/mika-expression-normal.webp",
+    "bytes": 2462,
+    "sha256": "493ab57822becc61062fbf3696cd57dccb435ef3cf3f069d8f545b06fda7e845"
+  },
+  {
+    "index": 50,
+    "path": "assets/characters/mika-face.webp",
+    "bytes": 19138,
+    "sha256": "48c86e87a1a15c1a56845ac49edbb88509b1a85c14469c1ef09f7ae3af007fbb"
+  },
+  {
+    "index": 51,
+    "path": "assets/characters/mukbang-influencer.webp",
+    "bytes": 23276,
+    "sha256": "66d2532547aefb932d9585511498eb943078e5a4e042e34da9c657d084c30aa7"
+  },
+  {
+    "index": 52,
+    "path": "assets/characters/night-mechanic-base.webp",
+    "bytes": 15088,
+    "sha256": "0eeecee126c00c060d7b738618cad5cfab3b5603f2ba11350e26d07fa098765d"
+  },
+  {
+    "index": 53,
+    "path": "assets/characters/night-mechanic-expression-normal.webp",
+    "bytes": 2236,
+    "sha256": "6270e89cba48d76392a38f57cee039c2afcf30359d3aa212d6f977925044b141"
+  },
+  {
+    "index": 54,
+    "path": "assets/characters/night-mechanic-face.webp",
+    "bytes": 22404,
+    "sha256": "5ff8041911817a1271bb9612ef35231976c4b30276e5b8e73af60cdaf847675c"
+  },
+  {
+    "index": 55,
+    "path": "assets/characters/office-worker-base.webp",
+    "bytes": 37130,
+    "sha256": "2c99ccc115af5e5f46e9445cda3773ef981da747ae134d61052788178fa7f406"
+  },
+  {
+    "index": 56,
+    "path": "assets/characters/office-worker-expression-normal.webp",
+    "bytes": 3326,
+    "sha256": "d83beec3f1a1836bb66a8e8779cd2f224c64ea8d7df7d91b2913efa35693820a"
+  },
+  {
+    "index": 57,
+    "path": "assets/characters/office-worker-face.webp",
+    "bytes": 20938,
+    "sha256": "a99b0d8732668dac6078f0211777419469724f65ec12afd1bac526482226b2d8"
+  },
+  {
+    "index": 58,
+    "path": "assets/characters/red-song-guest-a.webp",
+    "bytes": 19818,
+    "sha256": "7f12b1702c8d6b8a47d2e3090067e6b5221a461940775ccacc4244a7a1ea4640"
+  },
+  {
+    "index": 59,
+    "path": "assets/characters/red-song-guest-b.webp",
+    "bytes": 15064,
+    "sha256": "5cfc14d2d14e2896288929ebbc09b7462b9c9d2c24d4732f2da9f606f0180ea9"
+  },
+  {
+    "index": 60,
+    "path": "assets/characters/rian-base.webp",
+    "bytes": 17350,
+    "sha256": "a117f9a04cda99418ea05d60efaa4d273a45e18d9c8f4400e515c4f320dabbf7"
+  },
+  {
+    "index": 61,
+    "path": "assets/characters/rian-expression-normal.webp",
+    "bytes": 2252,
+    "sha256": "740dbb3e4c3e2139e1dbcd26e067673a5a1df6575f61e95296b1af7ac7461d4d"
+  },
+  {
+    "index": 62,
+    "path": "assets/characters/rian-face.webp",
+    "bytes": 18056,
+    "sha256": "0cf7d0ab3d31ab6080a432e331cb0f1f6617f196cd25649cce8f50eb217a86a8"
+  },
+  {
+    "index": 63,
+    "path": "assets/characters/settler-base.webp",
+    "bytes": 42334,
+    "sha256": "f37ad6fdfd96991791248d80bcc00909e25725a1f40c7014a6d31038d104a59d"
+  },
+  {
+    "index": 64,
+    "path": "assets/characters/settler-expression-normal.webp",
+    "bytes": 1168,
+    "sha256": "9e29824625659b8ea20defa776da834190ec22503c72bc27282579292ac4e15e"
+  },
+  {
+    "index": 65,
+    "path": "assets/characters/settler-face.webp",
+    "bytes": 19122,
+    "sha256": "ed91c0847afc3220bfde22457ee0aa58220a8abd4162d62f6b4892bd4375b079"
+  },
+  {
+    "index": 66,
+    "path": "assets/characters/torban-base.webp",
+    "bytes": 22706,
+    "sha256": "d8005f3d23da6f547d51873572d7550ea3f3191dc1ccd43347bc5fae9b83d74b"
+  },
+  {
+    "index": 67,
+    "path": "assets/characters/torban-expression-normal.webp",
+    "bytes": 8894,
+    "sha256": "0d5faf899740ffb751e12a2e8e154287411f3b5ce33ff09c73c30f9c22bd048e"
+  },
+  {
+    "index": 68,
+    "path": "assets/characters/torban-face.webp",
+    "bytes": 22254,
+    "sha256": "c069404031038442fb159345a5df7c33ab9e2c2f8fafcef268a4ce6e5b373161"
+  },
+  {
+    "index": 69,
+    "path": "assets/characters/torban-wife-base.webp",
+    "bytes": 18174,
+    "sha256": "401e6205ee8ce2342a2abb16246eccf278c8a87ab88346c9869a5c895081c673"
+  },
+  {
+    "index": 70,
+    "path": "assets/characters/torban-wife-expression-normal.webp",
+    "bytes": 2420,
+    "sha256": "58a72c458074592deda138a8f49dae4ca2d10540cf629bb9c7d804d8c6f65d09"
+  },
+  {
+    "index": 71,
+    "path": "assets/characters/zero-field-inspector.webp",
+    "bytes": 22928,
+    "sha256": "e5ec813809f62c14ec6be2d05ee7f5668d28273bc87bf7496d7c154b5744139e"
+  },
+  {
+    "index": 72,
+    "path": "assets/ui/counter-top.webp",
+    "bytes": 8020,
+    "sha256": "1e013be75a90100c25281e2d4e6a96baf191d4551da0b38d0f05fad9200b881a"
+  },
+  {
+    "index": 73,
+    "path": "assets/ui/friend-counter.webp",
+    "bytes": 10616,
+    "sha256": "b2362c40194ec23131e9e0bfa9d415b55e30b8042a118d259475dac8a7d92561"
+  }
+]
